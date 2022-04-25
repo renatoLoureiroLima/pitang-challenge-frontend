@@ -1,6 +1,6 @@
 # challenge-pitang-frontend
 
-Project created as a challenge for a job position at Pitang Agile IT.
+Project created as a challenge for a trainee program for Pitang Agile IT.
 
 ## Installation 
 ### Using yarn
