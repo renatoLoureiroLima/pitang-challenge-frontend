@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<table
+  className="table"
+  data-testid="appointmentlist-test"
+>
+  <thead>
+    <tr>
+      <th>
+        Nome: 
+      </th>
+      <th>
+        Data de nascimento 
+      </th>
+      <th>
+        Data do Atendimento 
+      </th>
+      <th>
+        Antedimento 
+      </th>
+    </tr>
+  </thead>
+  <tbody />
+</table>
+`;

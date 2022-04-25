@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<form
+  action="#"
+  className="form"
+  onReset={[Function]}
+  onSubmit={[Function]}
+>
+  <div
+    className="form-group form-focus"
+  >
+    <label
+      className="focus-label"
+      htmlFor="name"
+    >
+      Nome
+    </label>
+    <input
+      className="form-control floating undefined"
+      data-testid="nameform-test"
+      id="name"
+      name="name"
+      onBlur={[Function]}
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>
+  <div
+    className="form-group form-focus"
+  >
+    <label
+      className="focus-label"
+      htmlFor="birthday"
+    >
+      Data de Nascimento 
+    </label>
+    <div
+      className="react-datepicker-wrapper"
+    >
+      <div
+        className="react-datepicker__input-container"
+      >
+        <input
+          autoComplete="off"
+          className="form-control floating undefined"
+          disabled={false}
+          id="birthday"
+          name="birthday"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          readOnly={false}
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="form-group form-focus"
+  >
+    <label
+      className="focus-label"
+      htmlFor="selectedDate"
+    >
+      Data para Vacinação 
+    </label>
+    <div
+      className="react-datepicker-wrapper"
+    >
+      <div
+        className="react-datepicker__input-container"
+      >
+        <input
+          autoComplete="off"
+          className="form-control floating undefined"
+          disabled={false}
+          id="selectedDate"
+          name="selectedDate"
+          onBlur={[Function]}
+          onChange={[Function]}
+          onClick={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          readOnly={false}
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex flex-row-reverse"
+  >
+    <button
+      className="btn btn-primary btn-md"
+      data-testid="buttonform-test"
+      disabled={true}
+      type="submit"
+    >
+      Agendar
+    </button>
+  </div>
+</form>
+`;

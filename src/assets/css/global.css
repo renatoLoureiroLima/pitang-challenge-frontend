@@ -1,0 +1,20 @@
+.form-group {
+  position: relative;
+}
+
+.form-control.error {
+  border-color: red;
+}
+
+.react-datepicker__input-container,
+.react-datepicker-wrapper {
+  width: 100% !important;
+}
+
+span[class*='error'] {
+  position: absolute;
+  bottom: -15px;
+  left: 5px;
+  font-size: 10px;
+  color: red;
+}

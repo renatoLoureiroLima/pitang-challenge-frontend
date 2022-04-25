@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <nav
+    className="navbar navbar-expand navbar-dark bg-dark"
+    data-testid="navbar-test"
+  >
+    <span
+      className="navbar-brand"
+    >
+      Challenge Pitang
+    </span>
+  </nav>
+</div>
+`;
